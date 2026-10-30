@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-30T00:40:11.066419+00:00",
+  "adapter_sha256": "46a2ec59612344574e94e29e832f54b2fe6ed3a5a4b4392a66480e49e041a3b8",
+  "adapter_checks_sha256": "adab4edb2103bff1a835e06ab0b73cb5b413ece485e400d122584d27d54a2e05",
+  "pinned_inventory_sha256": "c97cf88157000b2bc4a99eff788a13f442b888569467fd419bf14cff99b14a90",
+  "source_copy_counts": {
+    "computational": 50,
+    "release_support": 16,
+    "total": 66
+  },
+  "H": "65f92f1fc9c9419a1240fb9a7c658bb1303aae72",
+  "R": "20663439b68d6a81c6e86bbf4bafb2f86034f9a4",
+  "actual_runs": [
+    {
+      "role": "original offline preparation",
+      "runtime": "bundled Python3.12.14 standard library only"
+    },
+    {
+      "role": "fresh isolated shadow",
+      "runtime": "3.13.7",
+      "exit_code": 0,
+      "network_external_files_vault_and_subprocess_disabled": true,
+      "all_three_guard_types_probed": true
+    }
+  ],
+  "API_calls": 0,
+  "vault_reads": 0,
+  "scientific_producer_imports_or_runs": 0,
+  "git_mutations": 0,
+  "all66_pinned_inputs_unchanged": true,
+  "private_payload_sha256": {
+    "ion-turbulence-agentpub-payload.json": "29620b7b8ecb82e8835c1875d070968c3c033bde1844023b370cfbd70f676bab",
+    "ion-turbulence-aaes-registration.json": "bf7aec17cbf7a08b2012955e99090ebde5445152a3ffc4848d6a32afc0102e0d"
+  },
+  "payloads_and_local_scientific_papers_exact_in_shadow": true,
+  "other_generated_products_identical_except_top_level_preparation_timestamps": true,
+  "optimized_python_rejected_without_changes": true,
+  "canonical_math_segments": 83,
+  "numbered_equations": 10,
+  "figures_full_captions": 2,
+  "references": 5,
+  "body_regex_words": 2381,
+  "max_section_UTF16": 6174,
+  "both_formal_gates_closed": true,
+  "independent_review_pending": true,
+  "scope": "Adapter preservation/portability only; no live schema/API check, formal eligibility, acceptance or publication inferred."
+}

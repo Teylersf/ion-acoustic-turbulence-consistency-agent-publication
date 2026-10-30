@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.json -text
+*.csv -text
+*.png binary
+*.pdf binary
+reproduction/canonical/** -text
+reproduction/canonical/** whitespace=-blank-at-eol

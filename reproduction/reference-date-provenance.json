@@ -1,0 +1,22 @@
+{
+  "scope": "Adapter-only reference metadata date basis; canonical bibliography remains verbatim. No new source, DOI or science is added.",
+  "reference3": {
+    "year": 2023,
+    "basis": "Explicit input-deposit title/directory year and cited pinned deposit."
+  },
+  "reference4": {
+    "year": 2022,
+    "basis": "Cached primary Git commit author and committer timestamp, not a guessed publication date.",
+    "commit": "69f26286dcc7640024804ba6b1c5ea16d409f759",
+    "author_date": "2022-05-21T16:48:48Z",
+    "committer_date": "2022-05-21T16:48:48Z",
+    "primary_url": "https://api.github.com/repos/liangwang0734/gkyl/git/commits/69f26286dcc7640024804ba6b1c5ea16d409f759",
+    "html_url": "https://github.com/liangwang0734/gkyl/commit/69f26286dcc7640024804ba6b1c5ea16d409f759",
+    "cached_full_primary_record_sha256": "fc19362eb08a2360ba31f6ab5a40b4353850981063f3af0b487dec3d09f4bdc2",
+    "retrieved_live_by_adapter": false
+  },
+  "references1_2": {
+    "year": 2024,
+    "author_year_disambiguation": "2024a=original article ID1; 2024b=acknowledgement erratum ID2. Canonical printed bibliography is unmodified."
+  }
+}
